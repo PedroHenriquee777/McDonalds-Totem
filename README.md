@@ -1,4 +1,4 @@
-Projeto desenvolvido com os conhecimentos adquiridos na FULLSTACKWEEK, onde aprofundamos sobre React, Typescript e Next.js para fazer um totem de McDonalds <br>
+Projeto desenvolvido com os conhecimentos adquiridos na FULLSTACKWEEK, onde aprofundamos sobre React, Typescript e Next.js para fazer um autostendimento de Restaurante<br>
 Para começar, rode o servidor de desenvolvimento:
 
 ```bash
