@@ -1,6 +1,6 @@
 # McDonalds-Totem - Project made in partnership with FSW
 
-This project is a kiosk system for McDonald's orders, developed to simulate the self-service experience found in the chain's restaurants. The system allows users to view the menu, build their orders, customize items, and complete their purchase intuitively.
+This project is a Totem system for McDonald's orders, developed to simulate the self-service experience found in the chain's restaurants. The system allows users to view the menu, build their orders, customize items, and complete their purchase intuitively.
 
 ## Features
 
