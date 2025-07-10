@@ -1,14 +1,62 @@
-Projeto desenvolvido com os conhecimentos adquiridos na FULLSTACKWEEK, onde aprofundamos sobre React, Typescript e Next.js para fazer um autostendimento de Restaurante<br>
-Para começar, rode o servidor de desenvolvimento:
+# McDonalds-Totem - Project made in partnership with FSW
 
-```bash
-npm run dev
-# ou
-yarn dev
-# ou
-pnpm dev
-# ou
-bun dev
+This project is a kiosk system for McDonald's orders, developed to simulate the self-service experience found in the chain's restaurants. The system allows users to view the menu, build their orders, customize items, and complete their purchase intuitively.
+
+## Features
+
+- View products and menu categories.
+- Customize burgers, drinks, and sides.
+- Add and remove items from the cart.
+- Automatic calculation of the order's total value.
+- Order completion with visual confirmation.
+- Friendly and responsive interface.
+
+## Technologies Used
+
+- **Main language:** React, Typescript, Next.js
+- **Framework/Library:** PrismaORM, Fastify, Tailwind Css
+- **Other technologies:** Node.js, Shadcn, PostgreeSql
+
+## How to Run the Project
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/PedroHenriquee777/McDonalds-Totem.git
+   ```
+2. Enter the project folder:
+   ```bash
+   cd McDonalds-Totem
+   ```
+3. Install dependencies (if applicable):
+   ```bash
+   npm install
+   ```
+4. Run the project:
+   ```bash
+   npm start
+   ```
+
+## Project Structure
+
+```
+McDonalds-Totem/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   └── ...
+├── public/
+├── README.md
+└── ...
 ```
 
-Abra [http://localhost:3000](http://localhost:3000) com seu browser
+## Contribution
+
+Contributions are welcome! Feel free to open issues or pull requests.
+
+## License
+
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
+
+---
+Project developed in partnership with Full-Stack-week  
+Developed by [PedroHenriquee777](https://github.com/PedroHenriquee777)
