@@ -52,8 +52,8 @@ McDonalds-Totem/
 
 ## License
 
-This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
+This project was developed solely for educational, academic, and technical purposes, with no intention of commercial use or sale
 
 ---
 Project developed in partnership with Full-Stack-week  
-Developed by [PedroHenriquee777](https://github.com/PedroHenriquee777)
+Author: [PedroHenriquee777](https://github.com/PedroHenriquee777)
